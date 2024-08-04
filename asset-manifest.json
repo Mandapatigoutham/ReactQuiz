@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Mandapatigoutham/ReactQuiz.git/static/css/main.0a3ac693.css",
+    "main.js": "/Mandapatigoutham/ReactQuiz.git/static/js/main.21e7c908.js",
+    "index.html": "/Mandapatigoutham/ReactQuiz.git/index.html",
+    "main.0a3ac693.css.map": "/Mandapatigoutham/ReactQuiz.git/static/css/main.0a3ac693.css.map",
+    "main.21e7c908.js.map": "/Mandapatigoutham/ReactQuiz.git/static/js/main.21e7c908.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0a3ac693.css",
+    "static/js/main.21e7c908.js"
+  ]
+}
